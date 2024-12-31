@@ -1,3 +1,9 @@
+nftset=/dmc.rip/4#inet#fw4#vpn_domains
+nftset=/s9.sharewood.ws/4#inet#fw4#vpn_domains
+nftset=/si94.skladchik.org/4#inet#fw4#vpn_domains
+nftset=/kinogo.ec/4#inet#fw4#vpn_domains
+nftset=/grammarly.com/4#inet#fw4#vpn_domains
+nftset=/tailscale.com/4#inet#fw4#vpn_domains
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
