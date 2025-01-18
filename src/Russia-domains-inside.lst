@@ -29,6 +29,7 @@ scontent.xx.fbcdn.net
 cdn.fbsbx.com
 internalfb.com
 oculus.com
+meta.com
 
 # Twitter/X. From: https://github.com/v2fly/domain-list-community/blob/master/data/twitter
 ads-twitter.com
@@ -274,6 +275,7 @@ cyberghostvpn.com
 getoutline.org
 vpnpay.io
 protonvpn.com
+surfshark.com
 
 # Hashicorp
 hashicorp.com
@@ -368,6 +370,7 @@ cnd2exp.online
 torrentgalaxy.to
 rutor.org
 cdnbunny.org
+rutracker.wiki
 
 # Media
 lostfilmtv2.site
@@ -502,6 +505,18 @@ animego.org
 amedia.site
 yummyani.me
 kara.su
+animeteatr.tv
+animebest.org
+animedia.tv
+shikimori.org
+animespirit.ru
+big-anime.ru
+sovetromantica.com
+animevost.in
+adultmult.tv
+yandere.tv
+jut.su
+jut-su.net
 
 # Salesforce
 salesforce.com
@@ -562,7 +577,7 @@ discord.store
 discord.tools 
 discordapp.com 
 discordapp.net 
-discordmerch.com 
+discordmerch.com
 discordpartygames.com 
 discord-activities.com 
 discordactivities.com 
@@ -571,6 +586,7 @@ discordsays.com
 # HDrezka
 hdrezka.ag
 hdrezka.ac
+hdrezka.me
 static.hdrezka.ac
 voidboost.cc
 stream.voidboost.cc
@@ -590,6 +606,16 @@ herokucdn.com
 gaming.amazon.com
 primevideo.com
 
+# VMware
+vmware.com
+download3.omnissa.com
+
+# Broadcom
+broadcom.com
+
+# quora
+quora.com
+
 # Other
 saverudata.net
 mail-api.proton.me
@@ -598,7 +624,6 @@ anilibria.tv
 gamesrepack.com
 opensea.io
 prnt.sc
-quora.com
 knews.kg
 ilook.tv
 iptv.online
@@ -815,5 +840,23 @@ obozrevatel.com
 cvedetails.com
 ldoceonline.com
 broncosportforum.com
-
-
+lightning.ai
+temu.com
+timberland.de
+nhl.com
+framer.com
+windows10spotlight.com
+rublacklist.net
+squareup.com
+mashable.com
+research.net
+htmhell.dev
+liga.net
+clickup.com
+metal-archives.com
+halooglasi.com
+carrefouruae.com
+lucid.app
+synoforum.com
+hdkinoteatr.com
+steamstat.info
