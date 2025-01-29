@@ -1,3 +1,4 @@
+nftset=/vpn.rodionov.uk/4#inet#fw4#vpn_domains
 nftset=/signaler-pa.clients6.google.com/4#inet#fw4#vpn_domains
 nftset=/w.deepl.com/4#inet#fw4#vpn_domains
 nftset=/2ip.ru/4#inet#fw4#vpn_domains
