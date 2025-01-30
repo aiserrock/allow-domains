@@ -1,5 +1,7 @@
+nftset=/clientservices.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/clients4.google.com/4#inet#fw4#vpn_domains
 nftset=/clients6.google.com/4#inet#fw4#vpn_domains
+nftset=/ssl.gstatic.com/4#inet#fw4#vpn_domains
 nftset=/w.deepl.com/4#inet#fw4#vpn_domains
 nftset=/2ip.ru/4#inet#fw4#vpn_domains
 nftset=/dmc.rip/4#inet#fw4#vpn_domains
