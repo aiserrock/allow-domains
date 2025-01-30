@@ -1,3 +1,5 @@
+nftset=/download-cdn.jetbrains.com/4#inet#fw4#vpn_domains
+nftset=/download.jetbrains.com/4#inet#fw4#vpn_domains
 nftset=/google-analytics.com/4#inet#fw4#vpn_domains
 nftset=/googleapis.com/4#inet#fw4#vpn_domains
 nftset=/identitytoolkit.googleapis.com/4#inet#fw4#vpn_domains
