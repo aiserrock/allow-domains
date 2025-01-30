@@ -1,13 +1,5 @@
 nftset=/clients4.google.com/4#inet#fw4#vpn_domains
-nftset=/clients5.google.com/4#inet#fw4#vpn_domains
-nftset=/clients3.google.com/4#inet#fw4#vpn_domains
-nftset=/clients2.google.com/4#inet#fw4#vpn_domains
-nftset=/clients1.google.com/4#inet#fw4#vpn_domains
-nftset=/clients7.google.com/4#inet#fw4#vpn_domains
-nftset=/clients8.google.com/4#inet#fw4#vpn_domains
 nftset=/clients6.google.com/4#inet#fw4#vpn_domains
-nftset=/signaler-pa.clients6.google.com/4#inet#fw4#vpn_domains
-nftset=/vpn.rodionov.uk/4#inet#fw4#vpn_domains
 nftset=/w.deepl.com/4#inet#fw4#vpn_domains
 nftset=/2ip.ru/4#inet#fw4#vpn_domains
 nftset=/dmc.rip/4#inet#fw4#vpn_domains
