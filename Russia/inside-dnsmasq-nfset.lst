@@ -1,3 +1,6 @@
+nftset=/google-analytics.com/4#inet#fw4#vpn_domains
+nftset=/googleapis.com/4#inet#fw4#vpn_domains
+nftset=/identitytoolkit.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/google.com/4#inet#fw4#vpn_domains
 nftset=/clientservices.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/clients4.google.com/4#inet#fw4#vpn_domains
