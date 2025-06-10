@@ -175,7 +175,7 @@
 </details>
 
 <details>
-  <summary>Meta</summary>
+  <summary>Meta*</summary>
 
 - [RAW](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/meta.lst)
 - [SRS](https://github.com/itdoginfo/allow-domains/releases/latest/download/meta.srs)
@@ -223,6 +223,10 @@
 
 # Как найти все-все домены ресурса?
 https://itdog.info/analiziruem-trafik-i-opredelyaem-domeny-kotorye-ispolzuyut-sajty-i-prilozheniya/
+
+# Ресурсы, которых намеренно нет в общих списках
+
+1. В списке GeoBlock больше нет доменов, относящихся к Google AI. Они идут [отдельным списком](https://github.com/itdoginfo/allow-domains/blob/main/Services/google_ai.lst). Это сделано по причине, что многие иностранные серверы Google помечает как RU. 
 
 # Как добавить домены в списки?
 Приветствуется добавление новых доменов и удаление неактуальных.
@@ -275,7 +279,7 @@ service firewall restart && service dnsmasq restart
 - Как этот формат можно использовать, с примером (Программа, конфигурация)
 - Можно ли как-то тестировать список, если да, то как. Это нужно, чтобы пользователи всегда имели рабочий конфиг
 
-*Meta признана экстремистской организацией в России
+*Meta признана экстремистской и террористической организацией в России
 
 ---
 
