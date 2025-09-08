@@ -11,7 +11,6 @@ nftset=/download.jetbrains.com/4#inet#fw4#vpn_domains
 nftset=/clients4.google.com/4#inet#fw4#vpn_domains
 nftset=/clients6.google.com/4#inet#fw4#vpn_domains
 nftset=/w.deepl.com/4#inet#fw4#vpn_domains
-nftset=/ifconfig.me/4#inet#fw4#vpn_domains
 nftset=/dmc.rip/4#inet#fw4#vpn_domains
 nftset=/s9.sharewood.ws/4#inet#fw4#vpn_domains
 nftset=/si94.skladchik.org/4#inet#fw4#vpn_domains
