@@ -1,0 +1,4 @@
+ipset=/chat.openai.com.cdn.cloudflare.net/vpn_domains
+ipset=/openai.com/vpn_domains
+ipset=/production-openaicom-storage.azureedge.net/vpn_domains
+ipset=/chatgpt.com/vpn_domains
