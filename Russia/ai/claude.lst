@@ -1,1 +1,3 @@
 ipset=/claude.com/vpn_domains
+ipset=/claude.ai/vpn_domains
+ipset=/anthropic.com/vpn_domains
