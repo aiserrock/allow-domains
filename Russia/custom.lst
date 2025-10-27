@@ -1,3 +1,4 @@
+nftset=/hostvds.com/4#inet#fw4#vpn_domains
 nftset=/sharewood-zerkalo.com/4#inet#fw4#vpn_domains
 nftset=/production-openaicom-storage.azureedge.net/4#inet#fw4#vpn_domains
 nftset=/openai.com/4#inet#fw4#vpn_domains
