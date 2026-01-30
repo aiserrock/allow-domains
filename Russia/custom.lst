@@ -34,3 +34,4 @@ nftset=/kinogo.ec/4#inet#fw4#vpn_domains
 nftset=/grammarly.com/4#inet#fw4#vpn_domains
 nftset=/hmb.atlassian.net/4#inet#fw4#vpn_domains
 nftset=/godotengine.org/4#inet#fw4#vpn_domains
+nftset=/languagereactor.com/4#inet#fw4#vpn_domains
