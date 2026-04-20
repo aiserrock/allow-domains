@@ -1,3 +1,3 @@
-ipset=/claude.com/vpn_domains
-ipset=/claude.ai/vpn_domains
-ipset=/anthropic.com/vpn_domains
+nftset=/claude.com/4#inet#fw4#vpn_domains
+nftset=/claude.ai/4#inet#fw4#vpn_domains
+nftset=/anthropic.com/4#inet#fw4#vpn_domains
