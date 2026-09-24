@@ -25,6 +25,7 @@ nftset=/v2raytun.com/4#inet#fw4#vpn_domains
 nftset=/mobaxterm.mobatek.net/4#inet#fw4#vpn_domains
 nftset=/plugfox.dev/4#inet#fw4#vpn_domains
 nftset=/nexusmods.com/4#inet#fw4#vpn_domains
+nftset=/mixamo.com/4#inet#fw4#vpn_domains
 
 nftset=/battle.net/4#inet#fw4#vpn_domains
 nftset=/battlenet.com/4#inet#fw4#vpn_domains
