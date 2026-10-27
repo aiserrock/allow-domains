@@ -27,18 +27,15 @@ nftset=/plugfox.dev/4#inet#fw4#vpn_domains
 nftset=/nexusmods.com/4#inet#fw4#vpn_domains
 nftset=/mixamo.com/4#inet#fw4#vpn_domains
 
+# Battle.net и сервисы
 nftset=/battle.net/4#inet#fw4#vpn_domains
 nftset=/battlenet.com/4#inet#fw4#vpn_domains
-nftset=/blizzard.com/4#inet#fw4#vpn_domains
+nftset=/account.blizzard.com/4#inet#fw4#vpn_domains
+
+# CMS, магазин и веб-контент
 nftset=/blz-contentstack.com/4#inet#fw4#vpn_domains
-nftset=/blizzardgearstore.com/4#inet#fw4#vpn_domains
-nftset=/blzddist1-a.akamaihd.net/4#inet#fw4#vpn_domains
 nftset=/blzmedia-a.akamaihd.net/4#inet#fw4#vpn_domains
 nftset=/blznav.akamaized.net/4#inet#fw4#vpn_domains
 nftset=/bnetcmsus-a.akamaihd.net/4#inet#fw4#vpn_domains
 nftset=/bnetproduct-a.akamaihd.net/4#inet#fw4#vpn_domains
 nftset=/bnetshopus.akamaized.net/4#inet#fw4#vpn_domains
-nftset=/worldofwarcraft.com/4#inet#fw4#vpn_domains
-nftset=/heroesofthestorm.com/4#inet#fw4#vpn_domains
-nftset=/firesidegatherings.com/4#inet#fw4#vpn_domains
-nftset=/playwarcraft3.com/4#inet#fw4#vpn_domains
