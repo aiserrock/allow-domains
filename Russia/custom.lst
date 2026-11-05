@@ -27,11 +27,6 @@ nftset=/plugfox.dev/4#inet#fw4#vpn_domains
 nftset=/nexusmods.com/4#inet#fw4#vpn_domains
 nftset=/mixamo.com/4#inet#fw4#vpn_domains
 
-# Battle.net и сервисы
-nftset=/battle.net/4#inet#fw4#vpn_domains
-nftset=/battlenet.com/4#inet#fw4#vpn_domains
-nftset=/account.blizzard.com/4#inet#fw4#vpn_domains
-
 # CMS, магазин и веб-контент
 nftset=/blz-contentstack.com/4#inet#fw4#vpn_domains
 nftset=/blzmedia-a.akamaihd.net/4#inet#fw4#vpn_domains
